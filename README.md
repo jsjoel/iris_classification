@@ -1,7 +1,7 @@
 # Iris Classification
 ## **Description**
 ## **Table of Contents**
-- [General Information](https://github.com/jsjoel/Cartoonify_image#general-information)
+- [General Information](https://github.com/jsjoel/iris_classification/blob/main/README.md#general-information)
 - [Technologies Used](https://github.com/jsjoel/Cartoonify_image#technologies-used))
 - [Features](https://github.com/jsjoel/Cartoonify_image#features)
 - [Setup](https://github.com/jsjoel/Cartoonify_image#setup-))
