@@ -2,13 +2,14 @@
 ## **Description**
 ## **Table of Contents**
 - [General Information](https://github.com/jsjoel/iris_classification/blob/main/README.md#general-information)
-- [Technologies Used](https://github.com/jsjoel/Cartoonify_image#technologies-used))
-- [Features](https://github.com/jsjoel/Cartoonify_image#features)
-- [Setup](https://github.com/jsjoel/Cartoonify_image#setup-))
-- [Project requirements/dependencies](https://github.com/jsjoel/Cartoonify_image#project-requirementsdependencies)
-- [Extentions for Vscode](https://github.com/jsjoel/Cartoonify_image#extentions-for-vscode)
-- [Acknowledgements](https://github.com/jsjoel/Cartoonify_image#acknowledgements)
-- [Contact](https://github.com/jsjoel/Cartoonify_image#contact)
+- [Technologies Used](https://github.com/jsjoel/iris_classification#technologies-used)
+- [Features](https://github.com/jsjoel/iris_classification#features)
+- [Dataset](https://github.com/jsjoel/iris_classification#dataset)
+- [Setup](https://github.com/jsjoel/iris_classification#setup-)
+- [Project requirements/dependencies](https://github.com/jsjoel/iris_classification#project-requirementsdependencies)
+- [Extentions for Vscode](https://github.com/jsjoel/iris_classification#extentions-for-vscode)
+- [Acknowledgements](https://github.com/jsjoel/iris_classification#acknowledgements)
+- [Contact](https://github.com/jsjoel/iris_classification#contact)
 
 ## **General Information:**
 
@@ -50,6 +51,7 @@ Give the input data to predict the value to the model
 
 ## **Acknowledgements**
 https://archive.ics.uci.edu/dataset/53/iris
+
 DataFlair
 
 
